@@ -1,2 +1,3 @@
 HelloWorld
 Start Git!
+Creating a new branch is quick.
