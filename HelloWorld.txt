@@ -1,4 +1,4 @@
 HelloWorld
 Start Git!
 Creating a new branch is quick and simple.
-test add merge
+test add merge with no-ff
